@@ -2,7 +2,7 @@
 
 Este carpeta contiene una serie de ejercicios prácticos para reforzar conceptos fundamentales de programación en Python.
 
-## 📌 Temas Cubiertos
+## 📌 Temas
 - **Cadenas**: Manipulación y operaciones con strings.
 - **Tuplas**: Uso de estructuras inmutables.
 - **Listas**: Creación, modificación y recorrido de listas.
@@ -12,4 +12,3 @@ Este carpeta contiene una serie de ejercicios prácticos para reforzar conceptos
 - **Bucles**: Iteraciones con `for` y `while`.
 - **Funciones**: Definición y uso de funciones personalizadas.
 - **Clases y Objetos**: Principios de la programación orientada a objetos en Python.
-
