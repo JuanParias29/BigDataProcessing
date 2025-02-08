@@ -15,8 +15,8 @@ Este repositorio contiene proyectos y laboratorios relacionados con el curso de 
 - **Apache Spark**: Motor de procesamiento distribuido
 - **Python**: Lenguaje principal para la manipulación y análisis de datos
 
-Este repositorio servirá como un espacio de trabajo y documentación del aprendizaje en procesamiento de datos a gran escala. ¡Bienvenido a este viaje por el mundo de Big Data! 🚀
-
 ## 📞 Contacto
 Para dudas o sugerencias, puedes abrir un issue en el repositorio o escribir al correo:
 ariasj.u@javeriana.edu.co
+
+ ¡Bienvenido a este viaje por el mundo de Big Data! 🚀
