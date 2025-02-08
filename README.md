@@ -17,6 +17,6 @@ Este repositorio contiene proyectos y laboratorios relacionados con el curso de 
 
 Este repositorio servirá como un espacio de trabajo y documentación del aprendizaje en procesamiento de datos a gran escala. ¡Bienvenido a este viaje por el mundo de Big Data! 🚀
 
-📞 Contacto
+## 📞 Contacto
 Para dudas o sugerencias, puedes abrir un issue en el repositorio o escribir al correo:
 ariasj.u@javeriana.edu.co
