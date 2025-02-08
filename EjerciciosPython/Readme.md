@@ -1,6 +1,6 @@
 # Ejercicios de Programación en Python
 
-Este carpeta contiene una serie de ejercicios prácticos para reforzar conceptos fundamentales de programación en Python.
+Este carpeta contiene ejercicios prácticos para reforzar conceptos fundamentales de programación en Python.
 
 ## 📌 Temas
 - **Cadenas**: Manipulación y operaciones con strings.
