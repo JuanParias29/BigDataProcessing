@@ -1,4 +1,4 @@
-# Repositorio de Procesamiento de Datos
+# Repositorio de Procesamiento de Big Data
 
 Este repositorio contiene proyectos y laboratorios relacionados con el curso de procesamiento de datos. Se exploran conceptos clave de Big Data, tecnologías empresariales para BI, almacenamiento y procesamiento de datos a gran escala con herramientas especializadas.
 
