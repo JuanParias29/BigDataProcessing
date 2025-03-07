@@ -19,7 +19,7 @@ Este repositorio contiene proyectos y laboratorios relacionados con el curso de 
 - **[Juan Pablo Arias](https://github.com/JuanParias29/Perfil_GitHub)**
 
 ## 📅 Curso  
-**Principios de Desarrollo de Software**  
+**Procesamiento de Datos a Gran Escala**  
 📍 *Pontificia Universidad Javeriana*  
 👨‍🏫 *Docente:* [John Corredor, PhD](https://github.com/corredor-john)
 
